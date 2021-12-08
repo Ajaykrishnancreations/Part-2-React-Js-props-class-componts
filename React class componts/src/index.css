@@ -1,0 +1,25 @@
+.ExternalCss{
+  color: blueviolet;
+  text-align: center;
+  list-style: inside;
+  box-shadow: yellow 0px 0px 15px 20px;
+}
+.progress-bar{
+  width:70%;
+  background: rgb(0, 26, 255);
+ 
+}
+.progress{
+  background: rgb(129, 141, 255);
+}
+.full{
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+}
+.img1{
+  width: 100px;
+}
+.card{
+  width: 300px;
+}
